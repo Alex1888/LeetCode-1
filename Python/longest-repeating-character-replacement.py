@@ -30,6 +30,7 @@
 # Explanation:
 # Replace the one 'A' in the middle with 'B' and form "AABBBBA".
 # The substring "BBBB" has the longest repeating letters, which is 4.
+#23234
 
 class Solution(object):
     def characterReplacement(self, s, k):
